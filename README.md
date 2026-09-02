@@ -12,6 +12,10 @@ Lo armé usando IA como copiloto en cada etapa —queries, DAX, hasta el diseño
 - Top 5 pizzas por ingresos
 - Patrón de ventas por día de la semana
 
+## Vista previa del dashboard
+
+![Dashboard de Pizza Sales](pizza_dashboard_background.png)
+
 ## Stack
 
 - **SQL Server / T-SQL** — modelo de datos: 4 tablas normalizadas (pizza_types, pizzas, orders, order_details) con relaciones por FK
