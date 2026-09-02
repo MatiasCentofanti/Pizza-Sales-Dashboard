@@ -45,6 +45,3 @@ pizza_dashboard_background.png         - fondo del reporte
 - Domingo es el día con menos ventas ($99 mil) contra viernes, el pico ($136 mil) — casi 40% de diferencia.
 - "Classic" lidera en ingresos totales, pero por muy poco margen sobre "Supreme".
 
-## Notas
-
-Datos públicos con fines de práctica, no de un negocio real. Cada total del dashboard está validado a mano contra los CSV originales antes de confiar en cualquier medida DAX — varias veces el número no cerraba a la primera, y quedó documentado en el proceso de armado qué tipo de error era cada vez (relaciones mal armadas, contexto de filtro, precisión de decimales).
